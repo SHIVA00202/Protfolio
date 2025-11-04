@@ -91,7 +91,7 @@ export default function About() {
 
           {/* Resume Button */}
           <a
-            href="/tushar_patel.pdf" // ✅ Loaded from public
+            href="/SHIVA_YADAV_NEW_RESUME.pdf" // ✅ Loaded from public
             download
             className="mt-6 mb-6 px-6 py-3 bg-black text-white text-lg rounded-md shadow-md hover:bg-gray-900 transition-all"
           >
