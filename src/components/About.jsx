@@ -50,7 +50,7 @@ export default function About() {
           <img
             src="/img2.jpg" // ✅ Loaded from public
             alt="Profile"
-            className="w-80 h-96 object-cover rounded-lg shadow-lg"
+            className="w-80 h-96 mt-11 object-cover rounded-lg shadow-lg"
           />
 
           {/* Animated Title */}

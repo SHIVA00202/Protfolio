@@ -62,7 +62,7 @@ const Projects = () => {
       {/* Heading */}
      
       <div className="text-center">
-        <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight">
+        <h2 className="text-3xl md:text-4xl mt-8 lg:text-5xl font-bold tracking-tight">
           My Projects 
         </h2>
         <p className="mt-4 text-neutral-600 max-w-2xl mx-auto text-base md:text-lg">
