@@ -28,7 +28,7 @@ export default function NavBar() {
             className="text-xl font-bold tracking-wider hover:scale-110 transition-transform duration-300 cursor-pointer"
             style={{ fontFamily: "'Orbitron', sans-serif" }}
           >
-            Shiva
+            Shiva Yadav 
           </h1>
         </div>
 
